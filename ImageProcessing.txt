@@ -1,0 +1,7 @@
+The project is written in JAVA on IntelliJ platform
+To run this project you need to install a Java SDK, JavaFX SDK, openCV.
+Follow next routes to add SDKs to ypur project:
+For openCV:
+File -> Project Structures -> Modules -> Dependencies -> + and here add opencv-420.jar(can be found in openCV)then double click pe opencv-420.jar -> + -> OpenCV\opencv\build\java\x64  and press OK
+For JavaFX:
+File -> Project Structures -> Libraries -> + -> and select "lib" file
